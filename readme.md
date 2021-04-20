@@ -48,7 +48,7 @@ Generally, for [binary classification](https://machinelearningmastery.com/types-
 
 I solved this task by SVM classification and regression. 
 
-My teammates Yue Li and Xue Ying solved it by Neural Network and Xgboost, respectively.
+My teammates Yue Li and Yin Xue solved it by Neural Network and Xgboost, respectively.
 
 ### Annotations
 
